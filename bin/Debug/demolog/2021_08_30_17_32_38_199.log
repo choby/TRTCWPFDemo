@@ -1,0 +1,3 @@
+[1][08-30 17:32:38.628], [TRTCWPFDemo.Program.Main], [Progress <TRTCWPFDemo, 27116>]
+[1][08-30 17:32:40.306], [TRTCWPFDemo.MainWindow..ctor], [ SDKVersion : 9.0.0.10433]
+[9][08-30 17:32:44.816], [TRTCWPFDemo.MainWindow.onWarning], [warningCode : WARNING_INSUFFICIENT_CAPTURE_FPS, warningMsg : [08-30 17:32:44.814]摄像头帧率不足(HP HD Camera), arg = 0]
